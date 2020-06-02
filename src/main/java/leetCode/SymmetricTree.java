@@ -15,6 +15,19 @@ public class SymmetricTree {
         }
     }
 
+    public boolean isSymmetric(TreeNode root) {
+        return isRoot(root, root);
+    }
+
+    public boolean isRoot(TreeNode nodeA, TreeNode nodeB) {
+        if (nodeA == null && nodeB == null) {
+            return true;
+        } else if (nodeA == null || nodeB == null || nodeA.val != nodeB.val) {
+            return false;
+        }
+        return isRoot(nodeA.left, nodeB.right) && isRoot(nodeA.right, nodeB.left);
+    }
+
 
     public boolean isSymmetricIterative(TreeNode root) {
         if (root == null) {
