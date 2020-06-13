@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/BinaryTreeInOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/CountPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/SqrtX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/Permutations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
