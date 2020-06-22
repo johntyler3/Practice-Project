@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/KthSmallestElementInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,6 +48,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="KthSmallestElementInBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.KthSmallestElementInBST" />
+      <module name="practiceProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KthSmallestElementInBST" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -83,5 +105,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is a commit from inteli-J" />
     <option name="LAST_COMMIT_MESSAGE" value="this is a commit from inteli-J" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/practiceProject$KthSmallestElementInBST.ic" NAME="KthSmallestElementInBST Coverage Results" MODIFIED="1592242068950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetCode.*</FILTER>
+    </SUITE>
   </component>
 </project>
