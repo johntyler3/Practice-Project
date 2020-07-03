@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/Bubblesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/Insertionsort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sorting/Treesort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sorting/Treesort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/Selectionsort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Insertionsort">
+  <component name="RunManager" selected="Application.Selectionsort">
     <configuration name="Bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.Bubblesort" />
       <module name="practiceProject" />
@@ -87,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.Quicksort" />
+    <configuration name="Selectionsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.Selectionsort" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Selectionsort" />
         <item itemvalue="Application.Insertionsort" />
         <item itemvalue="Application.Bubblesort" />
         <item itemvalue="Application.Treesort" />
         <item itemvalue="Application.Heapsort" />
-        <item itemvalue="Application.Quicksort" />
       </list>
     </recent_temporary>
   </component>
