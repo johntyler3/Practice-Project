@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/Selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/GameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/Bucketsort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Selectionsort">
+  <component name="RunManager" selected="Application.Bucketsort">
     <configuration name="Bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.Bubblesort" />
       <module name="practiceProject" />
@@ -58,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Heapsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.Heapsort" />
+    <configuration name="Bucketsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.Bucketsort" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bucketsort" />
         <item itemvalue="Application.Selectionsort" />
         <item itemvalue="Application.Insertionsort" />
         <item itemvalue="Application.Bubblesort" />
         <item itemvalue="Application.Treesort" />
-        <item itemvalue="Application.Heapsort" />
       </list>
     </recent_temporary>
   </component>
