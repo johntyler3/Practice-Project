@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="" />
+    <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/CountPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/DefangIpAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/KidsWithGreatestNumberOfCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/NumberOfStepsToReduceNumberToZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/ShuffleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/ShuffleString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sorting/Bucketsort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sorting/Bucketsort.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bucketsort">
+  <component name="RunManager" selected="Application.ShuffleString">
     <configuration name="Bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.Bubblesort" />
       <module name="practiceProject" />
@@ -95,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Treesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.Treesort" />
+    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.ShuffleString" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShuffleString" />
         <item itemvalue="Application.Bucketsort" />
         <item itemvalue="Application.Selectionsort" />
         <item itemvalue="Application.Insertionsort" />
         <item itemvalue="Application.Bubblesort" />
-        <item itemvalue="Application.Treesort" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +208,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/sorting/Insertionsort.java</url>
           <line>32</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetCode/ShuffleString.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/sorting/Treesort.java</url>
