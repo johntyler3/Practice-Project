@@ -2,15 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/createTargetArrayInOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/xorOperationInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/uniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/FourSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/ValidSoduku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/queue/NestedIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/ConstructBinaryTreeFromPreorderAndInorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/BestTimeToBuyAndSellStock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/BestTimeToBuyAndSellStock2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/BinaryTreeInOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeInOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ContainsDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ConvertSortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/ConvertSortedArrayToBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/CountAndSay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/CountNumbersSmallerThanCurrent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/CountNumbersSmallerThanCurrent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/CountPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/NumberOfGoodPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/CountPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/CountPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/DecompressRLElist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/DecompressRLElist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/DefangIpAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/DefangIpAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/DeleteNodeInALinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/DeleteNodeInALinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ExcelSheetColumnNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/FactorialTrailingZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/FactorialTrailingZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/FindTheDuplicateNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/FindTheDuplicateNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/FirstUniqueChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/FirstUniqueChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/GameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/GameOfLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/GroupAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/GroupAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/HappyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/HouseRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ImplementStrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/ImplementStrStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/IntersectionOfTwoArrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/IntersectionOfTwoArrays2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/IntersectionOfTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/JewelsAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/JewelsAndStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/KidsWithGreatestNumberOfCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/KidsWithGreatestNumberOfCandies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/KthLargestElementInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/divideAndConquer/KthLargestElementInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/LongestConsecutiveSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MaxDepthOfBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/MaxDepthOfBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/MaxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/stack/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/MoveZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MyCircularDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/queue/MyCircularDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/queue/MyCircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/NumberOf1Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/bitManipulation/NumberOf1Bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/OddEvenLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/OddEvenLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/PalindromeLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/PowerOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/PowerOfThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ProductExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/ProductExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ReverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/bitManipulation/ReverseBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/RotateImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/RunningSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/RunningSumOf1DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ShuffleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/ShuffleTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ShuffleString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/ShuffleString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/bitManipulation/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/SqrtX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/SqrtX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/Subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/SubtractProductAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/SubtractProductAndSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/SumTwoIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/bitManipulation/SumTwoIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/ValidParentheses.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="CountNumbersSmallerThanCurrent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.CountNumbersSmallerThanCurrent" />
+      <option name="MAIN_CLASS_NAME" value="topics.array.CountNumbersSmallerThanCurrent" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="topics.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +144,11 @@
       </method>
     </configuration>
     <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.ShuffleString" />
+      <option name="MAIN_CLASS_NAME" value="topics.sort.ShuffleString" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="topics.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,17 +275,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetCode/ShuffleString.java</url>
-          <line>15</line>
+          <line>14</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetCode/CountNumbersSmallerThanCurrent.java</url>
-          <line>10</line>
+          <url>file://$PROJECT_DIR$/src/main/java/topics/array/CountNumbersSmallerThanCurrent.java</url>
+          <line>11</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetCode/CountNumbersSmallerThanCurrent.java</url>
-          <line>21</line>
+          <url>file://$PROJECT_DIR$/src/main/java/topics/array/CountNumbersSmallerThanCurrent.java</url>
+          <line>22</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -251,17 +315,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java</url>
-          <line>24</line>
+          <line>25</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java</url>
-          <line>33</line>
+          <line>34</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java</url>
-          <line>62</line>
+          <line>63</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
