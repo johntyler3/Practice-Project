@@ -1,10 +1,13 @@
-package topics.array;
+package topics.backtracking;
 
 import java.util.ArrayList;
 import java.util.List;
 
 //leetCode #78
 public class Subsets {
+
+    //Input : nums = [1, 2, 3]
+    //Output : <<3>, <2>, <1>, <1, 2, 3>, <1, 3>, <2, 3>, <1, 2>, <>>
 
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> myList = new ArrayList();
