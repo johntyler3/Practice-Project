@@ -2,11 +2,6 @@ package topics.tree;
 
 //leetCode #104
 public class MaxDepthOfBinarySearchTree {
-    private class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-    }
 
     public int maxDepth(TreeNode root) {
         if (root == null) {

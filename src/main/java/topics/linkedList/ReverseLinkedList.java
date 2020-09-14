@@ -2,10 +2,6 @@ package topics.linkedList;
 
 //leetCode #206
 public class ReverseLinkedList {
-    public class ListNode{
-        int val;
-        ListNode next;
-    }
 
     public ListNode reverseListIterative(ListNode head) {
         ListNode prev = null;

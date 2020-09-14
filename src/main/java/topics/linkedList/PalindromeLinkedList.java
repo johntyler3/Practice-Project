@@ -2,10 +2,6 @@ package topics.linkedList;
 
 //leetCode #234
 public class PalindromeLinkedList {
-    public class ListNode{
-        int val;
-        ListNode next;
-    }
 
     public boolean isPalindrome(ListNode head) {
         if (head == null || head.next == null) {

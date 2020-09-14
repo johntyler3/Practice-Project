@@ -3,25 +3,6 @@ package topics.tree;
 //leetCode #105
 public class ConstructBinaryTreeFromPreorderAndInorder {
 
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
-
     public static void main(String[] args) {
         int[] preOrder = {3,9,20,15,7};
         int[] inOrder = {9,3,15,20,7};

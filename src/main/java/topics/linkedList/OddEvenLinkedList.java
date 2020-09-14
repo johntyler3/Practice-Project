@@ -3,14 +3,6 @@ package topics.linkedList;
 //leetCode #328
 public class OddEvenLinkedList {
 
-    public class ListNode{
-        int val;
-        ListNode next;
-        public ListNode(int val) {
-            this.val =  val;
-        }
-    }
-
     public ListNode oddEvenList(ListNode head) {
         if (head == null || head.next == null) {
             return head;

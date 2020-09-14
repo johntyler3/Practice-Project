@@ -4,20 +4,6 @@ import java.util.*;
 
 public class LowestCommonAncestorofABinaryTree {
 
-    // Definition for a binary tree node.
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode() {}
-        TreeNode(int val) { this.val = val; }
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
-
     public static void main(String[] args) {
         TreeNode n3 = new TreeNode(3);
         TreeNode n5 = new TreeNode(5);

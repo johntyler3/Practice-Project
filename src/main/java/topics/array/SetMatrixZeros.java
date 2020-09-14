@@ -2,6 +2,7 @@ package topics.array;
 
 import java.util.Arrays;
 
+//leetCode #73
 public class SetMatrixZeros {
 
     public static void main(String[] args) {

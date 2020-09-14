@@ -2,10 +2,6 @@ package topics.linkedList;
 
 //leetCode #141
 public class LinkedListCycle {
-    public class ListNode{
-        int val;
-        ListNode next;
-    }
 
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) {

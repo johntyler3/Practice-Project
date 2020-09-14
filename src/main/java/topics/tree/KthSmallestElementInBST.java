@@ -5,16 +5,6 @@ import java.util.Stack;
 //leetCode #230
 public class KthSmallestElementInBST {
 
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        public TreeNode(int val) {
-            this.val = val;
-        }
-    }
-
     public static void main(String[] args) {
         TreeNode n5 = new TreeNode(5);
         TreeNode n3 = new TreeNode(3);

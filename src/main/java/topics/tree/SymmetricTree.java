@@ -6,16 +6,6 @@ import java.util.Queue;
 //leetCode #101
 public class SymmetricTree {
 
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        public TreeNode(int val) {
-            this.val = val;
-        }
-    }
-
     public boolean isSymmetric(TreeNode root) {
         return isRoot(root, root);
     }

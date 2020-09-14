@@ -2,10 +2,6 @@ package topics.linkedList;
 
 //leetCode #21
 public class MergeTwoSortedLists {
-    public class ListNode {
-        int val;
-        ListNode next;
-    }
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null) {

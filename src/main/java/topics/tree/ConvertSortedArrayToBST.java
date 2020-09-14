@@ -2,15 +2,6 @@ package topics.tree;
 
 //leetCode #108
 public class ConvertSortedArrayToBST {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        public TreeNode(int val) {
-            this.val = val;
-        }
-    }
 
     public TreeNode sortedArrayToBST(int[] nums) {
         if (nums == null) {

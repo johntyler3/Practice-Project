@@ -2,10 +2,6 @@ package topics.linkedList;
 
 //leetCode #160
 public class IntersectionOfTwoLinkedLists {
-    public class ListNode{
-        int val;
-        ListNode next;
-    }
 
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 
