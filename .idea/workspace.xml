@@ -2,124 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/BinarySearchOnArrayOfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/CoupleSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/FindMaxNumberOfRepetitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/HorizontalFlip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/MaxGain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/RepeatedElementsInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/StockMarketOracle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/TransposeSquareMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/VerticalFlip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/DistanceOfNodeFromRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/GenerateCombinationsOfParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/InsertStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/PrintPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/RecursivePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/ValidateBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/bitManipulation/BinaryRepresentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/design/IntroductionToTries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/CountPathsOnGameBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/FindNumberThatAppearsOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/IsomorphicStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/DeleteCircularLinkedListTailNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/DeleteHeadNodeCircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/DeleteListHeadNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/DeleteNodeAtPositionDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/DeleteNodeAtPositionLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/DoublyLinkedNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/FindMiddleNodeInSinglePass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/FindNthNodeFromEndLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/FindNthNodeFromEndWithoutExtraMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/InsertNodeAtEndLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/InsertNodeAtHeadOfDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/InsertNodeAtSpecifiedPositionDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/InsertNodeAtSpecifiedPositionLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/InsertNodeAtTailOfCircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/IsThisListAPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/LoopingLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/RemoveDuplicateNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/RemoveNthFromEndNodeFromSinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/ReverseSinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/math/BetterFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/math/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/math/FindMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/math/HappyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/math/POW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/math/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/math/ReverseAnInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/sort/MergeTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/Anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/FindFirstNonDuplicateChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/IsIntegerPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/PalindromeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/RemoveDuplicatesFromListOfWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/ReplaceAllSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/ReverseAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/SplitAStringInBalancedStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/UniqueCharsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/AreTheseBinaryTreesIdentical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BSTValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/ConvertBinaryTreeMirrorImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/CountLeaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/DeepestNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/FillAncestorsOfNodeInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/FindKthLargestNodeBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/FindKthSmallestNodeBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/FindMaxElementInBinaryTreeRecursively.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/FindMaximumBSTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/FindMinimumBSTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/FindNodeInBinaryTreeWithoutRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/FindSizeOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/HeightOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/IterativeBSTValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/IterativeInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/IterativePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/IterativelyFindMaxElementInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/JamIntoBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/MaximumSumPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/MinimumDepthOfTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/NumberOfFullNodesInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/NumberOfHalfNodesInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/PrintAllNodesInRangeBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/PrintBinaryTreeLevelByLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/SumAllElementsBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/SumAllElementsInBinaryTreeIteratively.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/SurroundedRegions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/design/ImplementTriePrefixTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/design/RandomizedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/design/ShuffleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/greedy/GasStation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/array/SetMatrixZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/SetMatrixZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/linkedList/DeleteNodeInALinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/DeleteNodeInALinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/linkedList/IntersectionOfTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/linkedList/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/linkedList/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/linkedList/OddEvenLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/OddEvenLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/linkedList/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/linkedList/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeInOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeInOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/ConstructBinaryTreeFromPreorderAndInorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/ConstructBinaryTreeFromPreorderAndInorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/ConvertSortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/ConvertSortedArrayToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/KthSmallestElementInBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/KthSmallestElementInBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/LowestCommonAncestorofABinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/LowestCommonAncestorofABinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/MaxDepthOfBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/MaxDepthOfBinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/RangeSumOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/RangeSumOfBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/SymmetricTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/SetMatrixZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/SetMatrixZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeInOrderTraversal$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeInOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeInOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeLevelOrderTraversal$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeLevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeLevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeZigZagLevelOrderTraversal$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeZigZagLevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeZigZagLevelOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/topics/backtracking/ValidateBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/ValidateBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/topics/design/IntroductionToTries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/design/IntroductionToTries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/IterativeBSTValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/IterativeBSTValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/backtracking/ValidateBST$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/backtracking/ValidateBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/backtracking/ValidateBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/DeleteNodeInALinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/DeleteNodeInALinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/DeleteNodeInALinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/FindNthNodeFromEndLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/FindNthNodeFromEndLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/FindNthNodeFromEndLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/InsertNodeAtTailOfCircularLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/InsertNodeAtTailOfCircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/InsertNodeAtTailOfCircularLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/IntersectionOfTwoLinkedLists$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/IntersectionOfTwoLinkedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/IntersectionOfTwoLinkedLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/LinkedListCycle$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/LinkedListCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/LinkedListCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/MergeTwoSortedLists$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/MergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/MergeTwoSortedLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/OddEvenLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/OddEvenLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/OddEvenLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/PalindromeLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/PalindromeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/PalindromeLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/ReverseLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/ReverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/ConvertSortedArrayToBST$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/ConvertSortedArrayToBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/ConvertSortedArrayToBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/FindTheKthLargestNodeInBST$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/FindTheKthLargestNodeInBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/FindTheMaximumBSTNode$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/FindTheMaximumBSTNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/FindTheMinimumBSTNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/JamIntoBST$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/JamIntoBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/JamIntoBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/KthSmallestElementInBST$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/KthSmallestElementInBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/KthSmallestElementInBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/LowestCommonAncestorofABinaryTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/LowestCommonAncestorofABinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/LowestCommonAncestorofABinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/MaxDepthOfBinarySearchTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/MaxDepthOfBinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/MaxDepthOfBinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/NumberOfHalfNodesInBST$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/NumberOfHalfNodesInBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/NumberOfHalfNodesInBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/RangeSumOfBST$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/RangeSumOfBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/RangeSumOfBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/SymmetricTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/SymmetricTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/SymmetricTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/constructBinaryTreeFromPreorderAndInorder$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/constructBinaryTreeFromPreorderAndInorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/constructBinaryTreeFromPreorderAndInorder.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeZigZagLevelOrderTraversal">
+  <component name="RunManager" selected="Application.Permutation">
     <configuration name="BinaryTreeZigZagLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="topics.tree.BinaryTreeZigZagLevelOrderTraversal" />
       <module name="practiceProject" />
@@ -180,8 +117,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterCombinationsOfAPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.backtracking.LetterCombinationsOfAPhoneNumber" />
+    <configuration name="GasStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.greedy.GasStation" />
+      <module name="practiceProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topics.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplementTriePrefixTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.design.ImplementTriePrefixTree" />
+      <module name="practiceProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topics.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.backtracking.Permutation" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
@@ -193,38 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestCommonAncestorofABinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.tree.LowestCommonAncestorofABinaryTree" />
+    <configuration name="SurroundedRegions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.array.SurroundedRegions" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PopulatingNextRightPointersInEachNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.tree.PopulatingNextRightPointersInEachNode" />
-      <module name="practiceProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="topics.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetMatrixZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.array.SetMatrixZeros" />
-      <module name="practiceProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="topics.math.*" />
+          <option name="PATTERN" value="topics.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.ImplementTriePrefixTree" />
+        <item itemvalue="Application.GasStation" />
+        <item itemvalue="Application.SurroundedRegions" />
         <item itemvalue="Application.BinaryTreeZigZagLevelOrderTraversal" />
-        <item itemvalue="Application.SetMatrixZeros" />
-        <item itemvalue="Application.PopulatingNextRightPointersInEachNode" />
-        <item itemvalue="Application.LowestCommonAncestorofABinaryTree" />
-        <item itemvalue="Application.LetterCombinationsOfAPhoneNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -428,6 +365,46 @@
           <line>60</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/array/SurroundedRegions.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/greedy/GasStation.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/greedy/GasStation.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/greedy/GasStation.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/design/ImplementTriePrefixTree.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/design/ImplementTriePrefixTree.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/design/ImplementTriePrefixTree.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/backtracking/Permutation.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/sorting/Treesort.java</url>
           <line>20</line>
@@ -438,6 +415,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="trie.root.childMap" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/practiceProject$KthSmallestElementInBST.ic" NAME="KthSmallestElementInBST Coverage Results" MODIFIED="1592242068950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
