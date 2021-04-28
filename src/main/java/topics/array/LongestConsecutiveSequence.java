@@ -2,6 +2,16 @@ package topics.array;
 
 import java.util.HashSet;
 
+/*
+Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+
+Example 1:
+
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+ */
+
 //leetCode #128
 public class LongestConsecutiveSequence {
     public int longestConsecutive(int[] nums) {

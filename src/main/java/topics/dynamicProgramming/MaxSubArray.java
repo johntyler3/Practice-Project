@@ -1,5 +1,22 @@
 package topics.dynamicProgramming;
 
+/*
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+Example 1:
+Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
+Output: 6
+Explanation: [4,-1,2,1] has the largest sum = 6.
+
+Example 2:
+Input: nums = [1]
+Output: 1
+
+Example 3:
+Input: nums = [5,4,-1,7,8]
+Output: 23
+ */
+
 //leetCode #53
 public class MaxSubArray {
     //this is the naive solution to this problem, runs in O(N^2)
@@ -24,7 +41,7 @@ public class MaxSubArray {
         return currentMax;
     }
 
-    //this is the optimal solution to this problem, runs in O(N) uses Kadane's Algorithm
+    //this is the optimal solution to this problem, runs in O(N) uses dynamic programming Kadane's Algorithm
     public int maxSubArray(int[] nums) {
         if (nums == null || nums.length == 0) {
             return -1;
