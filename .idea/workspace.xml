@@ -2,93 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/design/FlattenNestedListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/MobileNumericKeypad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/search/KthSmallestElementInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/ShuffleAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/CountOfMatchesInTournament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/bitManipulation/DecodeXORedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/MinCostClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/sort/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/CheckIfTheSentenceIsPanagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/CheckIfTwoStringArraysAreEquivalent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/CountItemsMatchingARule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/UniqueMorseCodeWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/array/FindTheDuplicateNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/FindTheDuplicateNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/array/GameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/GameOfLife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/array/ProductExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/ProductExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/array/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/RotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/backtracking/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/GenerateParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/backtracking/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/backtracking/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/Subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/divideAndConquer/KthLargestElementInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/divideAndConquer/KthLargestElementInAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/UniquePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/hashTable/FourSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/FourSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/hashTable/GroupAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/GroupAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/hashTable/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/hashTable/TopKFrequentElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/linkedList/OddEvenLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/linkedList/OddEvenLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/math/CountPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/CountPrimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/math/FactorialTrailingZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/FactorialTrailingZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/math/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/math/SqrtX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/math/SqrtX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/string/ImplementStrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/ImplementStrStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/string/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/string/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeInOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeInOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/KthSmallestElementInBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/KthSmallestElementInBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/BestTimeToBuyAndSellStock2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/BestTimeToBuyAndSellStock2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/ContainsDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/FindTheDuplicateNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/FindTheDuplicateNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/GameOfLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/GameOfLife.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/KidsWithGreatestNumberOfCandies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/KidsWithGreatestNumberOfCandies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/LongestConsecutiveSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/LongestConsecutiveSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/MergeSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/MoveZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/MoveZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/PascalsTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/PascalsTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/PlusOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/ProductExceptSelf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/ProductExceptSelf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/RotateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/RotateImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/backtracking/GenerateParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/backtracking/GenerateParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/backtracking/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/backtracking/Permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/backtracking/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/backtracking/Permutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/backtracking/Subsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/backtracking/Subsets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/bitManipulation/NumberOf1Bits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/bitManipulation/NumberOf1Bits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/bitManipulation/ReverseBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/bitManipulation/ReverseBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/bitManipulation/SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/bitManipulation/SingleNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/divideAndConquer/KthLargestElementInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/divideAndConquer/KthLargestElementInAnArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/dynamicProgramming/BestTimeToBuyAndSellStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/dynamicProgramming/BestTimeToBuyAndSellStock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/dynamicProgramming/MaxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/dynamicProgramming/MaxSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/dynamicProgramming/uniquePaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/dynamicProgramming/uniquePaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/hashTable/GroupAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/hashTable/GroupAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/hashTable/IntersectionOfTwoArrays2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/hashTable/IntersectionOfTwoArrays2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/hashTable/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/hashTable/MajorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/hashTable/TopKFrequentElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/hashTable/TopKFrequentElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/hashTable/ValidAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/hashTable/ValidAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/hashTable/fourSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/hashTable/fourSumII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/DeleteNodeInALinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/DeleteNodeInALinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/IntersectionOfTwoLinkedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/IntersectionOfTwoLinkedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/LinkedListCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/LinkedListCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/MergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/MergeTwoSortedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/OddEvenLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/OddEvenLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/PalindromeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/PalindromeLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/linkedList/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/linkedList/ReverseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/math/CountPrimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/math/CountPrimes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/math/ExcelSheetColumnNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/math/ExcelSheetColumnNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/math/FactorialTrailingZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/math/FactorialTrailingZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/math/HappyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/math/HappyNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/math/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/math/MissingNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/math/PowerOfThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/math/PowerOfThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/math/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/math/ReverseInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/math/RomanToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/math/RomanToInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/math/SqrtX.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/math/SqrtX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/stack/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/stack/MinStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/string/FirstUniqueChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/string/FirstUniqueChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/string/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/string/FizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/string/ImplementStrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/string/ImplementStrStr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/string/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/string/LongestCommonPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/string/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/string/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/string/ValidPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/string/ValidPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/string/ValidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/string/ValidParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeInOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeInOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeLevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeLevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/ConvertSortedArrayToBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/ConvertSortedArrayToBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/KthSmallestElementInBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/KthSmallestElementInBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/SymmetricTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/SymmetricTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/topics/array/ShuffleTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/ShuffleTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/topics/string/DefangIpAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/DefangIpAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/ShuffleTheArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/ShuffleTheArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/string/DefangIpAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/string/DefangIpAddress.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,13 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MobileNumericKeypad">
-    <configuration name="FactorialTrailingZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.math.FactorialTrailingZeros" />
+  <component name="RunManager" selected="Application.MinCostClimbingStairs">
+    <configuration name="CountNumbersSmallerThanCurrent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.array.CountNumbersSmallerThanCurrent" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.math.*" />
+          <option name="PATTERN" value="topics.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplementTriePrefixTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.design.ImplementTriePrefixTree" />
+    <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.dynamicProgramming.Knapsack" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.design.*" />
+          <option name="PATTERN" value="topics.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinCostClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.dynamicProgramming.MinCostClimbingStairs" />
+      <module name="practiceProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topics.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,26 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.backtracking.Permutation" />
-      <module name="practiceProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="topics.backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinCostClimbingStairs" />
+        <item itemvalue="Application.Knapsack" />
+        <item itemvalue="Application.CountNumbersSmallerThanCurrent" />
         <item itemvalue="Application.MobileNumericKeypad" />
         <item itemvalue="Application.ImplementStrStr" />
-        <item itemvalue="Application.FactorialTrailingZeros" />
-        <item itemvalue="Application.Permutation" />
-        <item itemvalue="Application.ImplementTriePrefixTree" />
       </list>
     </recent_temporary>
   </component>
@@ -476,6 +404,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/MobileNumericKeypad.java</url>
           <line>183</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/Knapsack.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/Knapsack.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/Knapsack.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/MinCostClimbingStairs.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/sorting/Treesort.java</url>
