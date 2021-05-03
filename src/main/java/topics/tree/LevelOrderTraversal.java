@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Stack;
 
 /*
-Given a binary tree, write a method to perform a levelorder traversal and return an ArrayList of
+Given a binary tree, write a method to perform a level-order traversal and return an ArrayList of
 integers containing the data of the visited nodes in the correct order.
  */
 

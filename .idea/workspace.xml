@@ -2,21 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bd40a7-fcc5-4fd3-a41b-4703bb53dcec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/ShuffleAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/backtracking/CountOfMatchesInTournament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/bitManipulation/DecodeXORedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/MinCostClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/sort/MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/CheckIfTheSentenceIsPanagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/CheckIfTwoStringArraysAreEquivalent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/CountItemsMatchingARule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/UniqueMorseCodeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/TopologicalGraphSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/SumOfAllOddLengthSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/DivisorGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/RangeSumQueryImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/AllPathsFromSourceToTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/FindCenterOfStarGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/FindTheTownJudge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/ReplaceAllDigitsWithCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/ToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/SerializeAndDeserializeBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/array/ShuffleTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/array/ShuffleTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/topics/string/DefangIpAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/string/DefangIpAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/array/ShuffleTheArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/array/ShuffleTheArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/string/DefangIpAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/string/DefangIpAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/ConstructBinaryTreeFromPreorderAndInorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/ConstructBinaryTreeFromPreorderAndInorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/topics/tree/LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/topics/tree/LevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/dynamicProgramming/MinCostClimbingStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/dynamicProgramming/MinCostClimbingStairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeZigZagLevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/BinaryTreeZigZagLevelOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/tree/constructBinaryTreeFromPreorderAndInorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/tree/constructBinaryTreeFromPreorderAndInorder.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +68,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinCostClimbingStairs">
-    <configuration name="CountNumbersSmallerThanCurrent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.array.CountNumbersSmallerThanCurrent" />
+  <component name="RunManager" selected="Application.CourseSchedule">
+    <configuration name="AllPathsFromSourceToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.graph.AllPathsFromSourceToTarget" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.array.*" />
+          <option name="PATTERN" value="topics.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplementStrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.string.ImplementStrStr" />
+    <configuration name="ConstructBinaryTreeFromPreorderAndInorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.tree.ConstructBinaryTreeFromPreorderAndInorder" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.string.*" />
+          <option name="PATTERN" value="topics.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.dynamicProgramming.Knapsack" />
+    <configuration name="CourseSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.graph.CourseSchedule" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.dynamicProgramming.*" />
+          <option name="PATTERN" value="topics.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinCostClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.dynamicProgramming.MinCostClimbingStairs" />
+    <configuration name="SerializeAndDeserializeBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topics.tree.SerializeAndDeserializeBST" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.dynamicProgramming.*" />
+          <option name="PATTERN" value="topics.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobileNumericKeypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topics.dynamicProgramming.MobileNumericKeypad" />
+    <configuration name="TopologicalGraphSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.TopologicalGraphSort" />
       <module name="practiceProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.dynamicProgramming.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinCostClimbingStairs" />
-        <item itemvalue="Application.Knapsack" />
-        <item itemvalue="Application.CountNumbersSmallerThanCurrent" />
-        <item itemvalue="Application.MobileNumericKeypad" />
-        <item itemvalue="Application.ImplementStrStr" />
+        <item itemvalue="Application.CourseSchedule" />
+        <item itemvalue="Application.TopologicalGraphSort" />
+        <item itemvalue="Application.AllPathsFromSourceToTarget" />
+        <item itemvalue="Application.ConstructBinaryTreeFromPreorderAndInorder" />
+        <item itemvalue="Application.SerializeAndDeserializeBST" />
       </list>
     </recent_temporary>
   </component>
@@ -236,21 +241,6 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/topics/tree/ConstructBinaryTreeFromPreorderAndInorder.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/topics/tree/ConstructBinaryTreeFromPreorderAndInorder.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/topics/tree/ConstructBinaryTreeFromPreorderAndInorder.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/topics/hashTable/ValidSoduku.java</url>
           <line>47</line>
           <option name="timeStamp" value="19" />
@@ -262,17 +252,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java</url>
-          <line>25</line>
+          <line>34</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java</url>
-          <line>34</line>
+          <line>43</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/topics/tree/BinaryTreeZigZagLevelOrderTraversal.java</url>
-          <line>63</line>
+          <line>72</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -422,8 +412,88 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/MinCostClimbingStairs.java</url>
-          <line>14</line>
+          <line>30</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/DivisorGame.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/DivisorGame.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/IsSubsequence.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/dynamicProgramming/IsSubsequence.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/tree/SerializeAndDeserializeBST.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/tree/SerializeAndDeserializeBST.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/tree/SerializeAndDeserializeBST.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/tree/SerializeAndDeserializeBST.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/tree/SerializeAndDeserializeBST.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/tree/ConstructBinaryTreeFromPreorderAndInorder.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/graph/AllPathsFromSourceToTarget.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/graph/AllPathsFromSourceToTarget.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sorting/TopologicalGraphSort.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sorting/TopologicalGraphSort.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sorting/TopologicalGraphSort.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/graph/CourseSchedule.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/sorting/Treesort.java</url>
@@ -435,12 +505,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="trie.root.childMap" />
-        <watch expression="count[0]" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/practiceProject$KthSmallestElementInBST.ic" NAME="KthSmallestElementInBST Coverage Results" MODIFIED="1592242068950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
