@@ -42,4 +42,16 @@ public class ReplaceAllDigitsWithCharacters {
 
     }
 
+    public static void main(String[] args) {
+
+        char charChar = 'a';
+        int three = 3;
+        char newChar = (char)(charChar + three);
+
+        int letter = 'a';
+
+        System.out.println(newChar + " " + letter);
+
+    }
+
 }
